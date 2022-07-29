@@ -5,6 +5,4 @@
 2)	Etiketleme: Etiketleme için labelImg programı kullanılarak veriler etiketlendi.
 3)	Eğitim: Verilerin %80 eğitim (917) %20 test(230) olacak şekilde ayrıldı. Colab üzerinden ağ eğitimini gerçekleştirildi. Eğitim 30 epoch olarak gerçekleştirildi.
 ### Model Sonuçları
- ![image](https://user-images.githubusercontent.com/74897177/181749841-b2f463a3-5533-4cf5-ba12-7703f7cd0087.png)![image](https://user-images.githubusercontent.com/74897177/181750751-b34bd613-bc96-47e8-808a-4f70e9da2dc2.png)
-
-
+<img src="https://user-images.githubusercontent.com/74897177/181749841-b2f463a3-5533-4cf5-ba12-7703f7cd0087.png" width=300 height=400>                                <img src="https://user-images.githubusercontent.com/74897177/181750751-b34bd613-bc96-47e8-808a-4f70e9da2dc2.png" width=300 height=400>
