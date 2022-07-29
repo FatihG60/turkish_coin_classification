@@ -1,0 +1,9 @@
+# train and val data
+train: ../drive/MyDrive/MultiData/images/train/
+val: ../drive/MyDrive/MultiData/images/val
+
+# number of classes
+nc: 5
+
+# class names
+names: [ '5 kurus', '10 kurus', '25 kurus', '50 kurus', '1 lira']

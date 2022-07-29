@@ -1,0 +1,9 @@
+# train and test data
+train: C:/Users/Asus/Desktop/coin_classification/yolov5-master/datasets/train/images/
+val: C:/Users/Asus/Desktop/coin_classification/yolov5-master/datasets/test/images/
+
+# number of classes
+nc: 5
+
+# class names
+names: [ '5 kurus', '10 kurus', '25 kurus', '50 kurus', '1 lira']
