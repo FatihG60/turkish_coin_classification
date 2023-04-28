@@ -10,8 +10,8 @@
 ## Contributors ✨
 Thanks go to these people.
 
-<a href="https://github.com/FatihGovtas/turkish_coin_classification/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FatihGovtas/turkish_coin_classification" />
+<a href="https://github.com/Alieren287/turkish_coin_classification/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Alieren287/turkish_coin_classification" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
